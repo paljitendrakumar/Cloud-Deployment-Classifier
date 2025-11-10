@@ -12,15 +12,17 @@ This Streamlit application uses a Random Forest model to recommend whether a giv
 ## 🚀 How to Run Locally
 
 1.  **Clone the repository:**
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+     ```bash
+    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/user-attachments/assets/39ee35a7-064d-4898-bbde-22652c99df2d)
+    cd your-repo-name
+    ```
 
-2.  **Install the required libraries:**
+3.  **Install the required libraries:**
     ```bash
     pip install -r requirements.txt
     ```
 
-3.  **Run the Streamlit app:**
+4.  **Run the Streamlit app:**
     ```bash
     streamlit run app.py
     ```
