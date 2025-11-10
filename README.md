@@ -14,7 +14,7 @@ This Streamlit application uses a Random Forest model to recommend whether a giv
 1.  **Clone the repository:**
      ```bash
     git clone [https://github.com/your-username/your-repo-name.git](https://github.com/user-attachments/assets/39ee35a7-064d-4898-bbde-22652c99df2d)
-    cd your-repo-name
+    cd Cloud-Deployment-Classifier
     ```
 
 3.  **Install the required libraries:**
